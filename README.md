@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Thet
 
-<!--
-**thetmaung-stack/thetmaung-stack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Mobile software engineer in Da Nang, Vietnam.
 
-Here are some ideas to get you started:
+For the past 3 years I've built HR management, e-commerce, productivity and utility apps with Flutter and React Native. Now I'm learning native Android with Kotlin and Jetpack Compose, and I'm open to freelance work.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Stack
+
+Flutter, React Native / Expo, Firebase, Supabase, Appwrite. Learning Kotlin and Jetpack Compose.
+
+## Elsewhere
+
+- [Portfolio](https://thet-maung.cloudflare-trapping420.workers.dev/)
+- [LinkedIn](https://www.linkedin.com/in/thet-maung-444318335)
+- [Email](mailto:thetmaung.main@proton.me)
